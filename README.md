@@ -1,4 +1,5 @@
 # Pollux
+Run Pollux by downloading the zip file and unzipping it.
 
 ## Controls
 - WASD Movement
